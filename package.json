@@ -4,7 +4,7 @@
   "description": "Provides scaffolding for a jQuery Mobile app.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/RedWolves/anvil.jquerymobile.git"
+    "url": "git://github.com/RedWolves/anvil.jquerymobile"
   },
   "main": "./lib/jquerymobile.scaffold.js",
   "keywords": [

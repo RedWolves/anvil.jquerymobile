@@ -1,5 +1,5 @@
 ### anvil.jquerymobile
-This repository hosts scaffolding for jQuery Mobile projects.  
+This repository hosts anvil.js scaffolding for standing up a bare jQuery Mobile project.  
 
 This is an add on for [anvil.js](http://anvil-js.com).
 
